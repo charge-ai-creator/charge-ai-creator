@@ -4,7 +4,7 @@ Charge AI energizes digital interaction with "Navigators"—AI agents designed t
 
 ![Energy (3)](https://github.com/user-attachments/assets/4f09fd36-6fa2-4ffa-aa10-3a86009ffc3b)
 
-# Key Components
+# Our Components
  
  1. Advanced Language Models for Charge Context Understanding:
 - Context & Intent Recognition: Integrate advanced language models like Google’s Gemini or similar AI to interpret user instructions related to charging and payment processes. These models can understand the context (e.g., processing a payment, verifying transaction details) and the intent behind actions (e.g., "Complete the payment", "Confirm the transaction"). They can predict the most likely sequence of actions based on user queries or commands, ensuring that the process of charge handling is accurate and responsive.
