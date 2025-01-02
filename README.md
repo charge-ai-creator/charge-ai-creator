@@ -7,9 +7,7 @@ Charge AI leverages advanced artificial intelligence to streamline and optimize 
 # Our Components
  
 Advanced Language Models for Charge Context Understanding:
-Context & Intent Recognition: Integrate advanced language models like Google’s Gemini or similar AI to interpret user instructions related to charging and payment processes. These models can understand the context (e.g., processing a payment, verifying transaction details) and the intent behind actions (e.g., "Complete the payment", "Confirm the transaction"). They can predict the most likely sequence of actions based on user queries or commands, ensuring that the process of charge handling is accurate and responsive.
-  
-Transaction Predictions: By analyzing historical transaction data or user behavior, models can predict the necessary steps in a payment process, such as verifying card details, applying discounts, or selecting a payment method.
+Context & Intent Recognition: Integrate advanced language models like Google’s Gemini or similar AI to interpret user instructions related to charging and payment processes. These models can understand the context (e.g., processing a payment, verifying transaction details) and the intent behind actions (e.g., "Complete the payment", "Confirm the transaction"). They can predict the most likely sequence of actions based on user queries or commands, ensuring that the process of charge handling is accurate and responsive. Transaction Predictions: By analyzing historical transaction data or user behavior, models can predict the necessary steps in a payment process, such as verifying card details, applying discounts, or selecting a payment method.
 
 
 # Our Work
