@@ -12,7 +12,8 @@ Context & Intent Recognition: Integrate advanced language models like Google’s
 Transaction Predictions: By analyzing historical transaction data or user behavior, these models can predict the necessary steps in a charge sequence, such as verifying card details, applying discounts, or selecting a payment method.
 
 # Our Work
-At Our Work, we focus on innovation, efficiency, and impact. Our mission is to create solutions that address real-world challenges, combining advanced technology with sustainable practices. Through collaboration and dedication, we deliver projects that drive progress, empower communities, and shape a better future.
+At Our Work, we focus on innovation, efficiency, and impact. Our mission is to create solutions that address real-world challenges, combining advanced technology with sustainable practices. Through collaboration and #
+dedication, we deliver projects that drive progress, empower communities, and shape a better future.
 
 # Our Growth
 Our AI is powered by solar energy, wind energy, hydropower, biomass, and ocean energy, each contributing to reducing environmental impact. These renewable sources ensure that innovation and sustainability go hand in hand,
