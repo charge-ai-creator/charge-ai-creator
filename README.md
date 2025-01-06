@@ -2,7 +2,7 @@
 
 Charge AI leverages advanced artificial intelligence to streamline and optimize digital interactions across various online platforms. By utilizing "Navigators," these AI agents guide users through the web with unparalleled speed and precision. Whether it's assisting with browsing, completing purchases, or navigating complex online systems, Charge AI ensures that each step is seamless, efficient, and highly responsive. This technology not only enhances user experience but also enables businesses to provide more personalized, dynamic, and efficient services, ultimately driving higher engagement and satisfaction.
 
-![Energy (3)](https://github.com/user-attachments/assets/4f09fd36-6fa2-4ffa-aa10-3a86009ffc3b)
+![CHARGE (1)](https://github.com/user-attachments/assets/a2581f16-27e4-436e-9af1-acd1a74553b2)
 
 # Our Components
  
@@ -34,5 +34,4 @@ One of the core strengths of Charge AI is its ability to optimize energy usage, 
 In addition to its focus on efficiency, Charge AI is designed to work seamlessly with renewable energy sources. By optimizing charging schedules to align with periods of high solar or wind energy availability, 
 it supports the integration of clean energy into the grid. Charge AI is more than just a charging platform—it's a step toward smarter energy management and a sustainable future for everyone.
 
-
-![Überschrift hinzufügen (3)](https://github.com/user-attachments/assets/db4250db-a6e8-46c9-acfe-215ac6eaacdf)
+![Überschrift hinzufügen (6)](https://github.com/user-attachments/assets/7ec72eed-f37c-49bb-aecc-dc6bb430f054)
